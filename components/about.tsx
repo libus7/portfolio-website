@@ -49,6 +49,6 @@ export default function About() {
   );
 }
 function setActiveSection(arg0: string) {
-  throw new Error('Function not implemented.');
+  throw new Error("Function not implemented.");
 }
 
